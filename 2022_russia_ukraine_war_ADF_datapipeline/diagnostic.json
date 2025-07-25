@@ -1,0 +1,23 @@
+{
+    "now": "2025-07-25T07:26:30.288Z",
+    "perfNow": 13439.399999976158,
+    "diagnosticCorrelation": "e4b591cf-fd52-4751-99c9-1c80f30545a2",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.071425.1",
+        "environmentType": 3,
+        "resourceName": "2022rssukr-datafact",
+        "resourceRegion": "eastus2",
+        "resourceGroup": "2022-russia-ukraine-war-sandbox",
+        "subscriptionId": "c46b494a-e3f1-47fe-9155-963eeb3538d6",
+        "sessionId": "Q6Rq93dMX+EH8ejIg5/qOh",
+        "operationId": "",
+        "gitType": "live",
+        "loggingKey": "e6e9a7e2-6ac3-4b74-bd2b-903627f573e5"
+    },
+    "additionalInfo": {
+        "selectedResource": "2022_russia_ukraine_war_datapipeline",
+        "selectedResourceType": "pipeline"
+    }
+}

@@ -1,0 +1,6 @@
+selected resource name:		2022_russia_ukraine_war_datapipeline
+selected resource type:		pipeline
+factory name:			2022rssukr-datafact
+factory location:		eastus2
+subscription id:		c46b494a-e3f1-47fe-9155-963eeb3538d6
+time of download (UTC):		Fri, 25 Jul 2025 07:26:30 GMT

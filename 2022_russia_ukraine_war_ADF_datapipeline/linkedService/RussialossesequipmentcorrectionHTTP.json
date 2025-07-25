@@ -1,0 +1,13 @@
+{
+    "name": "RussialossesequipmentcorrectionHTTP",
+    "type": "Microsoft.DataFactory/factories/linkedservices",
+    "properties": {
+        "annotations": [],
+        "type": "HttpServer",
+        "typeProperties": {
+            "url": "https://raw.githubusercontent.com/rohitpaul1998/2022-Russia-Ukraine-War-Analytics/refs/heads/main/Dataset/russia_losses_equipment_correction.csv",
+            "enableServerCertificateValidation": true,
+            "authenticationType": "Anonymous"
+        }
+    }
+}
